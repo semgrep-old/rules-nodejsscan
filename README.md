@@ -1,7 +1,7 @@
-# NodeJsScan Rules
+# nodejsscan Rules
 
-This repository contains rules for [NodeJsScan](https://github.com/ajinabraham/nodejsscan)
+This repository contains rules for [nodejsscan](https://github.com/ajinabraham/nodejsscan) and CLI [njsscan](https://github.com/ajinabraham/njsscan)
 
 ## Contibutors
 
-All rules are written by [Ajin Abraham](https://github.com/ajinabraham)
+Maintained by [Ajin Abraham](https://github.com/ajinabraham)
