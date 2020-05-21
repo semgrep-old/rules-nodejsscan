@@ -1,4 +1,4 @@
-# nodejsscan Rules
+# nodejsscan semgrep rules repo
 
 This repository contains rules for [nodejsscan](https://github.com/ajinabraham/nodejsscan) and CLI [njsscan](https://github.com/ajinabraham/njsscan)
 
