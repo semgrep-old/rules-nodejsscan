@@ -1,3 +1,3 @@
 test:
-	semgrep --validate --config=./nodejsscan .
-	semgrep --test --strict --test-ignore-todo .
+	semgrep --validate --config=$$PWD/nodejsscan $$PWD
+	semgrep --test --strict --test-ignore-todo $$PWD
